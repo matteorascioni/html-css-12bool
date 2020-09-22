@@ -1,0 +1,19 @@
+/* Body Styles */
+body { 
+    font-family: sans-serif;
+    background: #fff;
+    color: black;
+}
+
+h1,
+h2 {
+    text-align: center;
+    margin: 30px;
+}
+
+.box {
+    padding: 10px;
+    text-align: center;
+    background: lightblue;
+    border: 1px solid black;
+}
